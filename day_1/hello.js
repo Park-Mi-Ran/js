@@ -1,0 +1,1 @@
+console.log('hello world!') //console창 출력 함수
